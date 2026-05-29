@@ -1,1 +1,1 @@
-Raises the stock concurrent binding cap for third-party Quick Settings tiles on Android 13+
+Keeps third-party Quick Settings tiles warm by raising SystemUI's binding cap
