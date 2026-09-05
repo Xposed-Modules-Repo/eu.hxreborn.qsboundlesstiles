@@ -1,1 +1,1 @@
-Keeps third-party Quick Settings tiles warm by raising SystemUI's binding cap
+Xposed module to make third-party Quick Settings tiles not suck. Lifts the cap of three bound tiles so they stop cold-starting on tap.
